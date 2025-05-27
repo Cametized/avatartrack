@@ -71,5 +71,4 @@ def track_avatar_changes(interval=60):
         else:
             print("No changes detected.")
 
-# Start tracking
-track_avatar_changes(interval=5)  # Check every 60 seconds
+track_avatar_changes(interval=5)  # woah put your timer in place of the 5
